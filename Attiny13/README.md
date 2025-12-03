@@ -5,7 +5,7 @@ this is the official first version of auto sprinkler with attiny13 as it's contr
 
 *features*
 
--this machine has two operation mode (timer mode & sensor mode)
+-this machine has two operation modes (timer mode & sensor mode)
 
 -timer mode: activated every 3 hours
 
