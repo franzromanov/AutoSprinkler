@@ -1,4 +1,5 @@
 this is the official first version of auto sprinkler with attiny13 as it's controller.
+\n
 
 *features*
 
