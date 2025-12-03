@@ -1,3 +1,5 @@
+auto_sprinkler_t13_V.0.1
+
 this is the official first version of auto sprinkler with attiny13 as it's controller.
 
 
